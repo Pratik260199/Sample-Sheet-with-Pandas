@@ -4,6 +4,7 @@
 
 1) Sample-Sheet_with_Pandas file contains the main code that reads and edits the data from the google spreadsheet.
 2) testSheets-62f6c09b9d0d.json is a JSON file that links the python code and the spreadsheet.
+3) requirements.txt file provides a list of all the python libraries used in this project.
 
 Files not being used in the project :
 1) sample sheet.csv file is a csv I used as a test case. It is not being used in the project.
